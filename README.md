@@ -3,6 +3,7 @@
 [Website](https://www.graph.cool/) • [Docs](https://graph.cool/docs/) • [Blog](https://blog.graph.cool/) • [Forum](https://www.graph.cool/forum) • [Slack](https://slack.graph.cool/) • [Twitter](https://twitter.com/graphcool)
 
 [![CircleCI](https://circleci.com/gh/prisma/graphcool-framework.svg?style=shield)](https://circleci.com/gh/graphcool/graphcool-framework) [![Slack Status](https://slack.prisma.io/badge.svg)](https://slack.graph.cool) [![npm version](https://badge.fury.io/js/graphcool.svg)](https://badge.fury.io/js/graphcool)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fale13jo%2Fgraphcool-framework.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fale13jo%2Fgraphcool-framework?ref=badge_shield)
 
 **Graphcool is an open-source backend development framework** to develop and deploy GraphQL APIs.
 
@@ -102,3 +103,7 @@ If an existing feature request or bug report is very important for you, please g
 ### Requesting a new feature
 
 We love your ideas for new features. If you're missing a certain feature, please feel free to [request a new feature here](https://github.com/graphcool/framework/issues/new). (Please make sure to check first if somebody else already requested it.)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fale13jo%2Fgraphcool-framework.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fale13jo%2Fgraphcool-framework?ref=badge_large)
